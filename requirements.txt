@@ -11,3 +11,4 @@ numpy
 libespeak
 scipy
 help
+ere tew
